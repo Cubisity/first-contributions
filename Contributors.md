@@ -724,6 +724,7 @@
 - [kciccolella](https://github.com/kciccolella)
 - [Nikhileswar Reddy](https://github.com/Nikhil5)
 - [Jason Hu](https://github.com/jasonhuhx)
+- [Andy Nguyen] (https://github.com/Cubisity)
 - [mccurdyr](https://github.com/mccurdyr)
 - [Vaibhav Gaydhane](https://github.com/Vaibhav11002)
 - [SaadChaay](https://github.com/saadchaay)
